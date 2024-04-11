@@ -1,2 +1,2 @@
 # Air Pollution - Skopje
-This is my first python project. This project is about air pollution in Skopje.
+This Python project aims to analyze air pollution in Skopje, utilizing fundamental Python programming concepts. Skopje, the capital city of North Macedonia, has been grappling with air pollution issues for years, primarily due to industrial activities, vehicle emissions, and geographical factors. This project endeavors to provide insights into the air quality situation in Skopje through data analysis.
